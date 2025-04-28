@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 set -euxo pipefail
 
-rm ~/.local/share/icons/SAMRewritten.png
-rm ~/.local/share/applications/SAMRewritten.desktop
-rm ~/Desktop/SAMRewritten.desktop
-rm ~/Applications/SAMRewritten.AppImage
-rm ~/Desktop/uninstall.sh
+rm -rf ~/.local/share/icons/SAMRewritten.png
+rm -rf ~/.local/share/applications/SAMRewritten.desktop
+rm -rf ~/Desktop/SAMRewritten.desktop
+rm -rf ~/Applications/SAMRewritten.AppImage
+rm -rf ~/Desktop/uninstall.desktop
 echo -e "\nDone!\n"
