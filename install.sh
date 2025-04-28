@@ -18,8 +18,11 @@ mv SamRewritten-b50966a-x86_64.AppImage ~/Applications/SAMRewritten.AppImage
 curl -L -O https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/main/extras/SAMRewritten.png
 mv SAMRewritten.png ~/.local/share/icons
 curl -L -O https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/main/extras/SAMRewritten.desktop
+chmod +x SAMRewritten.desktop
 cp SAMRewritten.desktop ~/Desktop
+chmod +x ~/Desktop/SAMRewritten.desktop
 mv SAMRewritten.desktop ~/.local/share/applications
+chmod +x ~/.local/share/applications/SAMRewritten.desktop
 
 # finishing up
 cd ..
