@@ -15,9 +15,9 @@ rm SAMRewritten.zip
 mv SamRewritten-b50966a-x86_64.AppImage ~/Applications/SAMRewritten.AppImage
 
 # curls extras as needed
-curl -L -o https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/main/extras/SAMRewritten.png
+curl -L -O https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/main/extras/SAMRewritten.png
 mv SAMRewritten.png ~/.local/share/icons
-curl -L -o https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/main/extras/SAMRewritten.desktop
+curl -L -O https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/main/extras/SAMRewritten.desktop
 cp SAMRewritten.desktop ~/Desktop
 mv SAMRewritten.desktop ~/.local/share/applications
 
