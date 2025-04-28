@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=SAMRewritten
+Comment=Steam Achievement Manager for Linux
+Exec=/home/deck/Applications/SAMRewritten.AppImage
+Icon=/home/deck/.local/share/icons/SAMRewritten.png
+Terminal=false
+Type=Application
+Categories=Game;
+
