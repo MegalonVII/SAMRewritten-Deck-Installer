@@ -25,6 +25,4 @@ mv SAMRewritten.desktop ~/.local/share/applications
 cd ..
 rm -rf ~/.megalonvii
 rm -rf ~/Desktop/install.desktop
-echo
-echo "Done!"
-echo
+echo -e "\nDone!\n"
