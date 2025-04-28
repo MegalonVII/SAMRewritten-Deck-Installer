@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Uninstall SAMRewritten
+Exec=curl https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/refs/heads/main/uninstall.sh | bash -s --
+Icon=steamdeck-gaming-return
+Terminal=true
+Type=Application
+StartupNotify=false
