@@ -14,4 +14,4 @@ This is a simple set of scripts meant to install a compiled version I had to scr
 
 ## Credits
 
-Credits are provided throughout this README.
+Credits are provided throughout this README.`
