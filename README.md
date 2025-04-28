@@ -1,1 +1,1 @@
-#SAMRewritten Installer for Steam Deck
+# SAMRewritten Installer for Steam Deck
