@@ -15,7 +15,9 @@ This is a simple set of scripts meant to install a compiled version I had to scr
 
 ### Option 2
 
-`curl https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/refs/heads/main/install.sh | bash -s --`
+```bash
+curl https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/refs/heads/main/install.sh | bash -s --
+```
 
 ## Uninstall
 
@@ -28,7 +30,9 @@ This is a simple set of scripts meant to install a compiled version I had to scr
 
 ### Option 2
 
-`curl https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/refs/heads/main/uninstall.sh | bash -s --`
+```bash
+curl https://raw.githubusercontent.com/MegalonVII/SAMRewritten-Deck-Installer/refs/heads/main/uninstall.sh | bash -s --
+```
 
 ## Credits
 
