@@ -12,4 +12,4 @@ cd ~/.megalonvii
 wget -O SAMRewritten.zip https://github.com/PaulCombal/SamRewritten/files/10149585/SamRewritten-b50966a-x86_64.zip
 unzip -o SAMRewritten.zip
 rm SAMRewritten.zip
-mv SamRewritten-b5096a-x86_64.AppImage ~/Applications/SAMRewritten.AppImage
+mv SamRewritten-b50966a-x86_64.AppImage ~/Applications/SAMRewritten.AppImage
